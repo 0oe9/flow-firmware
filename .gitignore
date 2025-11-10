@@ -1,0 +1,32 @@
+# Arduino Build Files
+*.hex
+*.elf
+*.eep
+
+# Compiled Object files
+*.o
+*.obj
+*.d
+*.dcu
+*.map
+*.a
+*.so
+
+# Backup & Temporary Files
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# Build folders
+/build/
+__MACOSX/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode & PlatformIO metadata
+.vscode/
+.pio/
